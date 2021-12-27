@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:4.0
 FN:John Doe
 N;SORT-AS="Jim":Doe;John;;Mr.;Esq.
-BDAY:1997-02-20T00:00:00.0000000+05:45
+BDAY:2001-12-27T00:00:00.0000000+01:00
 MAILER:Frapid
 TITLE:V.P., Research, and Development
 ROLE:Executive
@@ -14,8 +14,8 @@ REV:2017-02-14T20:40:50.1899247Z
 URL:http\://example.com/
 UID:970e501e-30fb-4cd1-90c6-5ce55b79a1a6
 ORG:ABC, Inc.;North American, Division;Marketing
-GEO:37.24;-17.87
-ADR;PREF=1;LABEL="Home Address";TZ="05:45";TYPE=HOME:234;Address Line 2;Street;City;State;234234;United States
+GEO:37,24;-17,87
+ADR;PREF=1;LABEL="Home Address";TZ="01:00";TYPE=HOME:234;Address Line 2;Street;City;State;234234;United States
 LABEL;TYPE=PARCEL:New Orleans
 TEL;TYPE=PREF:(345) 501-2527
 TEL;TYPE=HOME:(614) 220-8747
@@ -37,7 +37,7 @@ NICKNAME:Jim, Jimmie
 CLASS:PRIVATE
 SOURCE:http://directory.example.com/addressbooks/jdoe/Jean Dupont.vcf
 KIND:individual
-ANNIVERSARY:2014-02-20T00:00:00.0000000+05:45
+ANNIVERSARY:2018-12-27T00:00:00.0000000+01:00
 GENDER:M
 IMPP;PREF=1:test@example.com
 IMPP;PREF=2:xmpp:alice@example.com
